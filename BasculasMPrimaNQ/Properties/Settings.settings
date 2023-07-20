@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BasculasMPrimaNQ.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Moxa1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.56.0.59</Value>
+    </Setting>
+    <Setting Name="Moxa2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.56.0.59</Value>
+    </Setting>
+    <Setting Name="PMoxa1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">4001</Value>
+    </Setting>
+    <Setting Name="PMoxa2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">4002</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
